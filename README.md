@@ -9,7 +9,7 @@ J'aime donner une intelligence aux objets pour les rendre utiles et connectés.
 </div>
 
 ## 🚀 Projets Actuels :
-### **[🚀 C'Space 2026 - Experimental Rocket](https://github.com/yourusername/rocket-project)**
+### **[🚀 C'Space 2026 - Experimental Rocket](https://github.com/KuroWasTaken/C-Space-2026)**
 *Développement du corps et du système de télémétrie pour notre fusée de compétition*
 - **Tech:** STM32H7, C++, SOLIDWORKS, ARDUINO, SONDE PITOT
 - **Etat:** 🟢 En developpement | Lancer : 2026
