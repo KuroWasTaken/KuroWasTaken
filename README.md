@@ -27,10 +27,10 @@
 
 | Projet | Description | Stack |
 |---|---|---|
-| [🎯 Pan-Tilt Tracker](./pan-tilt-tracker) | Tourelle 2 axes autonome avec suivi de cible par vision | Python · OpenMV · UART · SolidWorks |
-| [⚙️ FreeRTOS STM32](./freertos-stm32) | Architecture temps réel bare-metal sur STM32 | C · FreeRTOS · STM32CubeIDE |
-| [🎲 Smart Dice](./smart-dice-arduino) | Dé électronique avec IMU sur Arduino Nano | C · I2C · MPU-6050 |
-| [🚀 Minifusée PCB](./minifusee-pcb) | Carte d'acquisition de données vol pour compétition CNES | KiCad · CEM · Capteurs pression/accélération |
+| [🎯 Pan-Tilt Tracker](https://github.com/KuroWasTaken/pan-tilt-tracker) | Tourelle 2 axes autonome avec suivi de cible par vision | Python · OpenMV · UART · SolidWorks |
+| [⚙️ FreeRTOS STM32](https://github.com/KuroWasTaken/freertos-stm32) | Architecture temps réel bare-metal sur STM32 | C · FreeRTOS · STM32CubeIDE |
+| [🎲 Smart Dice]([./smart-dice-arduino](https://github.com/KuroWasTaken/smart-dice-arduino)) | Dé électronique avec IMU sur Arduino Nano | C · I2C · MPU-6050 |
+| [🚀 Minifusée PCB]([./minifusee-pcb](https://github.com/KuroWasTaken/C-Space-2026)) | Carte d'acquisition de données vol pour compétition CNES | KiCad · CEM · Capteurs pression/accélération |
 
 ---
 
