@@ -11,6 +11,10 @@
 </p>
 
 ---
+<img width="2382" height="1582" alt="fusée" src="https://github.com/user-attachments/assets/990aae0c-976b-481d-832c-73b72f5c3666" />
+
+
+
 
 ## 🛠 Hard Skills
 
